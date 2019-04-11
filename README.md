@@ -2,7 +2,7 @@
 
 **Yazılımsal terimleri yeniden tanımlıyoruz.**
 
-Katkıda bulunmak için Pull Request gönderebilirsiniz! İçerik üretmenin kriterlerini öğrenmek için https://gelis-tr-io.github.io/website/ adresine bakabilirsiniz.
+Katkıda bulunmak için Pull Request gönderebilirsiniz! İçerik üretmenin kriterlerini öğrenmek için https://gelis-tr-io.github.io/website/ adresine bakabilirsiniz. Eğer başkası tarafından anlatılmasını istediğiniz bir terim varsa, onu buraya ekleyebilirsiniz. Bu şekilde eklendiklerinizin yanına `- İstek` şeklinde not düşerseniz, o konu hakkında uzman olanlar, nelerin çevrilmediğini daha rahat görebilirler.
 
 ## Object Oriented Programming (Nesneye Dayalı Programlama)
 
